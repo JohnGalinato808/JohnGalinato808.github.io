@@ -18,6 +18,8 @@
     { "name": "Software Engineering" },
     { "name": "Foreign Languages" },
     { "name": "Kinesthesiology" },
+    { "name": "Music" },
+    { "name": "Sports" },
     { "name": "Aircraft Maintenance" }
   ],
   "skills": [
@@ -50,7 +52,9 @@
       "endDate": "Present",
       "summary": "KC-135 'Stratotanker' Avionics Specialist",
       "highlights": [
-        "Maintain, update, and oversee multiple aircrafts for mission capability"
+        "Maintain, update, and oversee multiple aircrafts for mission capability.",
+        "Current Rank: Senior Airman (E4).",
+        "Deployed to Guam from June to August 2022 to support 146 flights, receive 184 aircrafts, and offloaded 3.7 million pounds for aircraft aerial refueling."
       ]
     },
     {
@@ -58,14 +62,44 @@
       "position": "Seasonal Educator",
       "startDate": "2022-10-01",
       "endDate": "2023-01",
-      "summary": "Greet and educated guests on products that tailor to each individual, leaving a welcoming and warm first impression on every guest."
-    }
+      "summary": "'Educate' guests about LuluLemon products, fabrics, and direct customers to the products of best interest.",
+      "highlights": [ 
+        "Explained products, fabrics, and activities for intended uses while creating a tailored shopping experience particular to each guest.",
+        "Created a welcoming environment for guests on the floor and cash register while assisting them, resulting in a positive guest return rate.",
+        "Coordinated with the team on flow of guests and products on the floor during Black Friday rush, resulting in a goal break of over $20k."
+      ]
+    },
+    {
+      "company": "Target",
+      "position": "Technology Consultant",
+      "startDate": "2017-07-01",
+      "endDate": "2021-09-01",
+      "summary": "Assist Guests with any electronic questions and direct guests to the correct product.",
+      "highlights": [
+        "Executed sales floor revisions and product security and provided welcoming guest support.",
+        "Surpassed monthly sales goals set by Target Headquarters by 15% for 6 months.",
+        "Initiated cross-department training and assistance; Increased team members’ knowledge of each department operation; Overall improvement of team member coverage availability.",
+        "Utilized technological knowledge to further assist guests with product replacements, technical questions, and product recomendations."
+      ]
+  },
   ],
   "awards": [
     {
       "title": "Dean's List",
       "date": "Fall 2021",
       "awarder": "University of Hawaii"
+    }
+  ],
+  "leadership": [
+    { 
+      "title": "Airmen Leadership Training (Remote)",
+      "startDate": "2022-08-01",
+      "endDate": "2023-02-01",
+      "highlights": [
+        "Completed a 6-month leadership training for becoming a well-rounded direct supervisor over Airmen.",
+        "Utilized multiple techniques of confrontation, personal guidance, and operational guidance.",
+        "Created various Air Force Forms to recognize an individual’s excellency and areas of improvement."
+      ]
     }
   ],
   "references": [
