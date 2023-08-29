@@ -4,7 +4,7 @@ type: project
 image: img/154WG.png
 title: "Guam Support"
 date: 2022-06-22
-published: false
+published: true
 labels:
   - Military
   - Avionics
