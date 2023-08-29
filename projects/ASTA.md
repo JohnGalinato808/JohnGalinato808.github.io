@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/MHS.png
 title: "ASTA National Contest"
-date: 208-03-15
+date: 2018-03-15
 published: true
 labels:
   - Symphony Orchestra
