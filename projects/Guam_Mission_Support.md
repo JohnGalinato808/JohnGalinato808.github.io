@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/154WG.png
 title: "Guam Support"
 date: 2022-06-22
-published: true
+published: false
 labels:
   - Military
   - Avionics
