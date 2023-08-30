@@ -14,7 +14,7 @@ summary: "Deployed to Guam in support of critical air refueling missions."
 
 <img class="img-fluid" src="../img/154WG.png"
     width="300"
-    height="400"  />
+    height="300"  />
 
 During the Summer of 2022, I was deployed to Guam with other aircraft maintenance speacilists and crewchiefs from the Hawaii Air National Guard to support the main unit, New Jersey National Guard. As a joint unit, we worked together to launch, recover, and maintain aircrafts throughout many critical missions.
 
