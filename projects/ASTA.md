@@ -10,10 +10,10 @@ labels:
   - Classical Music
 summary: "A once in a lifetime opportunity to showcase our passion."
 ---
-<a href="https://www.youtube.com/watch?v=XxvsqV39HFo"><img class="img-fluid" src="../img/GeorgiaSO.jpg" 
-                                                        class="center"
+<a href="https://www.youtube.com/watch?v=XxvsqV39HFo"><img class="img-fluid" src="../img/GeorgiaSO.jpg"
                                                         width="auto"
-                                                        height="300"></a> 
+                                                        height="300"
+                                                        class="center"></a> 
 
 Orchestra has been a major part of my life in grade school and played a major role in my development as a person. As an orcchestra, we knew that we could not leave home and return without accomploshing what we have been preparing for... the performance of our lifetime.
 
