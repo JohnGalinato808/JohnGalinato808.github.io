@@ -13,8 +13,8 @@ summary: "An extracurricular for Airman in Training (AIT) where I assumed the Wi
 ---
 
 <img class="img-fluid" src="../img/SAPR.jfif"
-    width="200"
-    height="auto" />
+    width="300"
+    height="300" />
 
 The Teal Rope is an Airman Leadership role that covers over the basis of Airmen morality and prevention of sexual assault.
 
