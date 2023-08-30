@@ -10,8 +10,6 @@ labels:
   - Education
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/SoftwareEngineer.png">
-
 ## Software Engineering
 
 
