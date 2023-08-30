@@ -10,5 +10,5 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/SoftwareEngineer.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/SoftwareEngineer.png">
 
