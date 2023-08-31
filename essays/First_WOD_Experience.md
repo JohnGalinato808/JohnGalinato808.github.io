@@ -11,7 +11,6 @@ labels:
   - WOD
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/SoftwareEngineer.png">
 
 ## Expectations
 Prior to the first WOD, I was expecting there to be multiple challenges and concepts that would have been difficult to code. Figuring out a problem is one thing, but figuring out a problem while under a time constraint is a beast of it's own. Another aspect that gave quite the scare, is the fact that no student knows what the problem will be for the WOD.
