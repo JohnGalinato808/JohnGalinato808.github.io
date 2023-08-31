@@ -8,6 +8,7 @@ published: true
 labels:
   - Software Engineering
   - Education
+  - Operational Development
 ---
 
 ## Major Takeaways
