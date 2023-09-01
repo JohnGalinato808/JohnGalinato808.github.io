@@ -213,25 +213,34 @@ but also researchers in all departments of science will benefit for the developm
 
 Bennett, Charles H., et al. "Experimental quantum cryptography." Journal of cryptology 5.1
     (1992): 3-28.
+    
 Bova, Francesco, Avi Goldfarb, and Roger G. Melko. "Commercial applications of quantum
     computing." EPJ quantum technology 8.1 (2021): 2.
+    
 Chen, Lily, et al. Report on post-quantum cryptography. Vol. 12. US Department of Commerce,
     National Institute of Standards and Technology, 2016.
+    
 Egger, Daniel J., et al. "Quantum computing for Finance: state of the art and future prospects."
     IEEE Transactions on Quantum Engineering (2020).
+    
 Gisin, Nicolas, et al. "Quantum cryptography." Reviews of modern physics 74.1 (2002): 145.
     Krylov, Anna I., et al. Quantum Computing and Quantum Information Storage. 11 Mar. 2021,
     pp. 6341–6343.
+    
 Perdomo-Ortiz, Alejandro, et al. "Opportunities and challenges for quantum-assisted machine
     learning in near-term quantum computers." Quantum Science and Technology 3.3 (2018):
     030502.
+    
 Politi, Alberto, Jonathan CF Matthews, and Jeremy L. O'brien. "Shor’s quantum factoring
     algorithm on a photonic chip." Science 325.5945 (2009): 1221-1221.
 Steane, Andrew. "Quantum computing." Reports on Progress in Physics 61.2 (1998): 117.
+
 Steffen, Matthias, et al. "Quantum computing: An IBM perspective." IBM Journal of Research
     and Development 55.5 (2011): 13-1.
+    
 Wallden, Petros, and Elham Kashefi. "Cyber security in the quantum era." Communications of
     the ACM 62.4 (2019): 120-120.
+    
 Wang, Shuangbao, Matthew Rohde, and Amjad Ali. "Quantum cryptography and simulation:
     Tools and techniques." Proceedings of the 2020 4th International Conference on
     Cryptography, Security and Privacy. 2020.
