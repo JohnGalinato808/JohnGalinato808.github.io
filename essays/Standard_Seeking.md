@@ -11,6 +11,8 @@ labels:
   - Coding
   - Reflection
 ---
+<img width="300px" class="rounded float-start pe-4" src="../img/codingstandard.avif">
+
 ## Running it Back
 Starting off college as a computer science major with absolutely no background in coding, there were many technical skills to learn. Reviewing my code from ICS 111 with Dr. Moore, my coding style was very messy. I had unnecessary blank lines to separate methods and trivial lines such as loops. During that time, I truly believed that it was easier to read code if I seperated code blocks like that, but as I continued to work on my coding capabilities, I realized how wrong I was to have thought that. During ICS 111 and even 211, we have used a similar Checkstyle that would highlight malpractices in our code. In the beginning I did not think much of the Checkstyle and thought it was only for fixing incorrect code, but it was much more than that. Having the ICS Checkstyle grew onto me, slowly making me conform to decent coding standards.
 
