@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Standard Seeking"
 # All dates must be YYYY-MM-DD format!
-date: 2023-09-05
+date: 2023-09-17
 published: true
 labels:
   - Programming
