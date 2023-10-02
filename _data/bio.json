@@ -10,8 +10,7 @@
     "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "JohnGalinato808", "url": "http://github.com/JohnGalinato808" },
-      { "network": "linkedin", "username": "Johnathan Galinato", "url": "http://linkedin.com/in/johnathan-galinato-80015522a" },
-      { "network": "instagram", "username": "JohnGalinatto", "url": "http://instagram.com/johngalinatto" }
+      { "network": "linkedin", "username": "Johnathan Galinato", "url": "http://linkedin.com/in/johnathan-galinato-80015522a" }
     ]
   },
   "interests": [
@@ -39,7 +38,7 @@
       "studyType": "B.S.",
       "startDate": "2021-08-23",
       "endDate": "Present",
-      "courses": ["Intro to Computer Science", ""]
+      "courses": ["Intro to Computer  I & II", "Program Structure in C", "Discrete Math I & II", "Introduction to Python", "Algorithms", "Korean I & II", "Calculus I & II"]
     }
   ],
   "work": [
@@ -51,9 +50,9 @@
       "endDate": "Present",
       "summary": "KC-135R 'Stratotanker' Avionics Specialist",
       "highlights": [
-        "Maintain, update, and oversee multiple aircrafts for mission capability.",
+        "Maintain, update, and oversee multiple aircraft for mission capability.",
         "Current Rank: Senior Airman (E4).",
-        "Deployed to Guam from June to August 2022 to support 146 sorties, received 184 aircrafts, and offloaded 3.7 million pounds for aircraft aerial refueling.",
+        "Deployed to Guam from June to August 2022 to support 146 sorties, received 184 aircraft, and offloaded 3.7 million pounds for aircraft aerial refueling.",
         "Security Clearance: Secret."
       ]
     },
@@ -79,16 +78,29 @@
         "Executed sales floor revisions and product security and provided welcoming guest support.",
         "Surpassed monthly sales goals set by Target Headquarters by 15% for 6 months.",
         "Initiated cross-department training and assistance; Increased team members’ knowledge of each department operation; Overall improvement of team member coverage availability.",
-        "Utilized technological knowledge to further assist guests with product replacements, technical questions, and product recomendations."
+        "Utilized technological knowledge to further assist guests with product replacements, technical questions, and product recommendations."
       ]
   },
+    {
+      "company": "GET Marketing",
+      "position": "Pearl Harbor NEX Apple Ambassador",
+      "startDate": "2023-07-01",
+      "endDate": "2023-10-01",
+      "summary": "Assisted guests with any technical questions about products and directed to preferred Apple device to satisfy their everyday needs.",
+      "highlights": [
+        "Studied unique parts of Apple products that distinguishes a product from others.",
+        "Utilized Apple’s SEED app to increase Apple and sales knowledge.",
+        "Maintained a pristine environment to showcase Apple products.",
+        "Educated guests on Apple products, guiding them to the device best fit for the guest’s needs, including Apple Care+."
+      ]
+    }
   ],
   "awards": [
     {
       "title": "Air and Space Achievement Medal",
       "date": "20223-02-09",
       "awarder": "Department of the Air Force",
-      "summary": "Outstanding achievement while assigned to the 506th Expeditionary Air Refueling Squadron. Displayed stellar airmanship and exemplified the core values while performing arcraft maintenance for four assigned and seven transient KC-135R aricraft as a member of the Pacific Command's Theater Support Package."
+      "summary": "Outstanding achievement while assigned to the 506th Expeditionary Air Refueling Squadron. Displayed stellar airmanship and exemplified the core values while performing aircraft maintenance for four assigned and seven transient KC-135R aircraft as a member of the Pacific Command's Theater Support Package."
     }
   ],
   "leadership": [
