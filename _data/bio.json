@@ -35,7 +35,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "g++" ]
+      "keywords": [ "MacOS", "Git/GitHub", "g++", "VS Code", "React", "Meteor", "IntelliJ" ]
     }
   ],
   "education": [
@@ -67,12 +67,25 @@
       "company": "LuluLemon",
       "position": "Seasonal Educator",
       "startDate": "2022-10-01",
-      "endDate": "2023-01",
+      "endDate": "Present",
       "summary": "'Educate' guests about LuluLemon products, fabrics, and direct customers to the products of best interest.",
       "highlights": [ 
         "Explained products, fabrics, and activities for intended uses while creating a tailored shopping experience particular to each guest.",
         "Created a welcoming environment for guests on the floor and cash register while assisting them, resulting in a positive guest return rate.",
         "Coordinated with the team on flow of guests and products on the floor during Black Friday rush, resulting in a goal break of over $20k."
+      ]
+    },
+    {
+      "company": "GET Marketing",
+      "position": "Pearl Harbor NEX Apple Ambassador",
+      "startDate": "2023-07-01",
+      "endDate": "2023-10-01",
+      "summary": "Assisted guests with any technical questions about products and directed to preferred Apple device to satisfy their everyday needs.",
+      "highlights": [
+        "Studied unique parts of Apple products that distinguishes a product from others.",
+        "Utilized Apple’s SEED app to increase Apple and sales knowledge.",
+        "Maintained a pristine environment to showcase Apple products.",
+        "Educated guests on Apple products, guiding them to the device best fit for the guest’s needs, including Apple Care+."
       ]
     },
     {
@@ -87,20 +100,7 @@
         "Initiated cross-department training and assistance; Increased team members’ knowledge of each department operation; Overall improvement of team member coverage availability.",
         "Utilized technological knowledge to further assist guests with product replacements, technical questions, and product recommendations."
       ]
-  },
-    {
-      "company": "GET Marketing",
-      "position": "Pearl Harbor NEX Apple Ambassador",
-      "startDate": "2023-07-01",
-      "endDate": "2023-10-01",
-      "summary": "Assisted guests with any technical questions about products and directed to preferred Apple device to satisfy their everyday needs.",
-      "highlights": [
-        "Studied unique parts of Apple products that distinguishes a product from others.",
-        "Utilized Apple’s SEED app to increase Apple and sales knowledge.",
-        "Maintained a pristine environment to showcase Apple products.",
-        "Educated guests on Apple products, guiding them to the device best fit for the guest’s needs, including Apple Care+."
-      ]
-    }
+  }
   ],
   "awards": [
     {
