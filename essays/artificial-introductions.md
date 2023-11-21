@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Artificial Introductions"
 # All dates must be YYYY-MM-DD format!
-date: 2023-1020
+date: 2023-10-20
 published: true
 labels:
   - Programming
