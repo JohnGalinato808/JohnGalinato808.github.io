@@ -14,7 +14,7 @@ labels:
 
 # Abstract
 
-<img src="../img/quantum.jpg" alt="Quantum Realm" />
+<img src="../img/quantum.jpg" alt="Quantum Realm" width="1200px"/>
 
 Current technology is able to produce computers, a powerful tool in creating methods and
 algorithms to make daily life more convenient. However, technology is only progressing and it is
