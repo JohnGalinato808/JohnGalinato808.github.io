@@ -19,7 +19,9 @@ summary: "Worked with a team of seasoned student-developers to create a web-appl
 
 # Making a Difference
 
-    <img src="../img/Envision-Lahaina-Landing-Page.png" alt="Landing Page" width="1200px" allign="img-center" />
+<div>
+    <img src="../img/Envision-Lahaina-Landing-Page.png" alt="Landing Page" width="1200px" align="img-center" />
+</div
 
 #### Links
 <a href="https://envision-lahaina.github.io/envision-lahaina-/">Organization Home Page</a>
@@ -32,7 +34,9 @@ This software project is in response to the tragic disaster of the Lahaina wildf
 
 ## I Volunteer [to] Tribute
 
-    <img src="../img/Envision-Lahaina-Forum-Page.png" alt="Forum Page" width="1200px" allign="img-center" />
+<div>
+    <img src="../img/Envision-Lahaina-Forum-Page.png" alt="Forum Page" width="1200px" align="img-center" />
+</div>
 
 My role within the group of astounding developers, was focused on the forum page. I have implemented the method of adding comments to a post, the capability to delete the comment, as well as deleting a post from the database collection. In addition I have created all test code to ensure all of our integrated implementations were working as intended.
 
