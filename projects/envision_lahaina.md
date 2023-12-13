@@ -21,7 +21,7 @@ summary: "Worked with a team of seasoned student-developers to create a web-appl
 
 <div>
     <img src="../img/Envision-Lahaina-Landing-Page.png" alt="Landing Page" width="1200px" align="img-center" />
-</div
+</div>
 
 #### Links
 <a href="https://envision-lahaina.github.io/envision-lahaina-/">Organization Home Page</a>
