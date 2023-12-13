@@ -19,4 +19,5 @@ summary: "Worked with a team of seasoned student-developers to create a web-appl
 
 <img class="img-fluid" src="../img/envisionLahaina.png"
     width="300"
-    height="300"  />
+    height="300" 
+    alt="Envision Lahaina Home" />
