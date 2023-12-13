@@ -12,7 +12,9 @@ labels:
   - Research Paper
 ---
 
-## Abstract
+# Abstract
+
+<img src="../img/quantum.jpg" alt="Quantum Realm" />
 
 Current technology is able to produce computers, a powerful tool in creating methods and
 algorithms to make daily life more convenient. However, technology is only progressing and it is
@@ -30,7 +32,7 @@ quantum computer differs from a classical computer, how a quantum computer funct
 applications of algorithms in a quantum computer, and theorized future impacts of quantum
 computers.
 
-## Quantum Age
+# Quantum Age
 
 Before computers were invented, all calculations were done by humans. As tools, people
 would use manual instruments such as an abacus, slide rule, or mathematical tables. However,
@@ -53,7 +55,7 @@ of the equations of motion, but the fact that they treat quantum amplitudes, or 
 Hilbert space, rather than classical variables” (7). It is not a linear way of achieving answers like 
 how classical computing would function, but rather analyzes all possible solutions and finds the
 most optimal or probable solution. With the possibility of finding probable answers or solutions,
-some major concerns are brought upon cybersecurity and other applications of quantum
+some major concerns are brought upon cyber security and other applications of quantum
 computing. Within this paper, the hardware of a quantum computer, how a quantum computer
 functions, and applications of quantum computing will be examined to answer the question of
 “how can quantum computing potentially change the world of computer science and its
@@ -110,7 +112,7 @@ entanglement is a key function in discovering the possibilities of quantum compu
 
 The remaining quantum property that a quantum computer uses is interference.
 Similar to noise canceling headphones and earbuds, waves that are out of phase with each other
-will ultimately cancel eachother out. Gisin, a member of a physics group in the University of
+will ultimately cancel each-other out. Gisin, a member of a physics group in the University of
 Geneva, states “[the] two-state protocol can also be implemented using an interference between a
 macroscopic bright pulse and a dim pulse with less than one photon on average” (9). For
 interference regarding quantum computers, qubits go into a superposition of many states which
@@ -151,7 +153,7 @@ with IBM Research in New York, found that
 There are a lot of variables that could affect the error rate of a quantum computer. Some might
 argue to add more qubits to create a more accurate quantum computer. However, the achilles heel
 to this idea is that adding more qubits will add more noise, sound, and vibrations into the
-vacuums of the hardware, ultimately causing an uprise in error rates (Perdomo-Ortiz 5).
+vacuums of the hardware, ultimately causing an up-rise in error rates (Perdomo-Ortiz 5).
 
 Although error rates and overall development is still in its early stages, quantum
 computing experiments have showcased promising applications and possibilities for the future of
@@ -175,7 +177,7 @@ Shor’s Algorithm. To better understand Shor’s Algorithm, Politi explains tha
 factoring algorithm finds the prime factors of a large number exponentially faster than any other
 known method a task that lies at the heart of modern information security, particularly on the
 internet. This algorithm requires a quantum computer a device which harnesses the ‘massive
-parellism’ afforded by quantum superposition and entanglement of [qubits]” (1). In other words,
+parallelism’ afforded by quantum superposition and entanglement of [qubits]” (1). In other words,
 Shor’s algorithm is an algorithm that has been mathematically proven being able to solve base
 factors used in RSA encryption algorithms, given that the quantum computer is powerful
 enough. In response to the development quantum computing and encryption, Chen et al., officials

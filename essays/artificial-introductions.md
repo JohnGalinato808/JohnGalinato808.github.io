@@ -13,12 +13,11 @@ labels:
 
 # Artificial Introductions
 
-<img width="280" class="rounded float-start pe-4" src="../img/chatgpt.jpg" alt="ChatGPT Picture"/>
+<img width="280" class="rounded float-start pe-4" src="../img/chatgpt.jpg" alt="ChatGPT Picture" />
 
 ## Smart Use of Artificial Intelligence
 The use of Artificial Intelligence Bots such as ChatGPT, Copilot, Bard, etc. is not necessarily something to frown upon. Similar to Wikipedia, AI is not a good place to end off with, but a good way to start. 
-<br>
-<br>
+
 Whenever an individual is stuck upon a certain prompt or particular question, AI bots prove to be a powerful source for directions to the solution. However, keep in mind that the direct answer will most likely be the correct or most optimal solution there is. The individual using AI is responsible for using the information given by the AI.
 
 ### AI with Experience WODs
@@ -67,4 +66,6 @@ Personally, I have not relied on AI to fix code errors. ESLint is a powerful too
 
 ## Closing
 
-Over my college career thus far, there were minimal amounts of AI that I have used. In reality, I have only started to use ChatGPT because of this class. Although not often, It has proven on multiple occasions to be useful, especially while coding. I have tried to not rely on ChatGPT throughout my used within this class, because I wanted to hone my abilities on my own as a developer. However, no matter how demonized ChatGPT or other AI is being shown by teachers across the nation, there are many benefits when using ChatGpt as a tool rather than the absolute answer. On the contrary, the downside with ChatGPT is that the more you ask of it, the less accurate the answer becomes. In addition, there is no real reason to be using ChatGPT for class concepts, for this will only hinder one's learning. To combat the unstable answers provided by AI, I have learned that asking prompts in sections will provide you with a more reasonable answer. One class that for sure is not good with ChatGPT, is Sciences outside of Computer Science. <br>`Use answers from ChatGPT at your own risk!`
+Over my college career thus far, there were minimal amounts of AI that I have used. In reality, I have only started to use ChatGPT because of this class. Although not often, It has proven on multiple occasions to be useful, especially while coding. I have tried to not rely on ChatGPT throughout my used within this class, because I wanted to hone my abilities on my own as a developer. However, no matter how demonized ChatGPT or other AI is being shown by teachers across the nation, there are many benefits when using ChatGpt as a tool rather than the absolute answer. On the contrary, the downside with ChatGPT is that the more you ask of it, the less accurate the answer becomes. In addition, there is no real reason to be using ChatGPT for class concepts, for this will only hinder one's learning. To combat the unstable answers provided by AI, I have learned that asking prompts in sections will provide you with a more reasonable answer. One class that for sure is not good with ChatGPT, is Sciences outside of Computer Science. 
+
+`Use answers from ChatGPT at your own risk!`
