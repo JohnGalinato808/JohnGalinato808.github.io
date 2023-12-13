@@ -4,7 +4,7 @@ type: essay
 title: "Asking The Smart Way"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-05
-published: true
+published: false
 labels:
   - Programming
   - Questions
@@ -23,6 +23,7 @@ labels:
     int f(int a, int b) {
       return a + b;
     }
+
     typeof(f) f2 {
       return -f(a, b);
     } 
