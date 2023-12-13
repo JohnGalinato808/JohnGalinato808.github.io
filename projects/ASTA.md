@@ -10,14 +10,19 @@ labels:
   - Classical Music
 summary: "A once in a lifetime opportunity to showcase our passion."
 ---
-<a href="https://www.youtube.com/watch?v=XxvsqV39HFo"><img class="img-fluid" src="../img/GeorgiaSO.jpg"
-                                                        width="auto"
-                                                        height="300"
-                                                        class="center"></a> 
 
-Orchestra has been a major part of my life in grade school and played a major role in my development as a person. As an orcchestra, we knew that we could not leave home and return without accomploshing what we have been preparing for... the performance of our lifetime.
+<div class="justify-content-center">
+    <a href="https://www.youtube.com/watch?v=XxvsqV39HFo"><img class="img-fluid" src="../img/GeorgiaSO.jpg"
+                                                           width="auto"
+                                                          height="300" alt="Bon Voyage Concert" />
+    </a> 
+</div>
 
-During this time, there were many rough patches that all of us in the orchestra overcame, individually and as a whole. Our reportoire included: 
+# Georgia on my Mind
+
+Orchestra has been a major part of my life in grade school and played a major role in my development as a person. As an orchestra, we knew that we could not leave home and return without accomplishing what we have been preparing for... the performance of our lifetime.
+
+During this time, there were many rough patches that all of us in the orchestra overcame, individually and as a whole. Our repertoire included: 
 1. Overture to Morning, Noon and Night in Vienna - Franz von Suppe (1819-1895)
 2. Internet Symphony "Eroica" - Tan Dun (1957 -)
 3. "Nessun Dorma" from Turandot - Giacomo Puccini (1858-1924)
