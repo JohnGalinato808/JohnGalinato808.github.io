@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "Johnathan Galinato",
+    "label": "Student",
+    "picture": "https://github.com/JohnGalinato808.png",
+    "email": "jg67@hawaii.edu",
+    "phone": "808-223-1747",
+    "website": "https://JohnGalinato808.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.",
+    "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "JohnGalinato808", "url": "http://github.com/JohnGalinato808" },
+      { "network": "linkedin", "username": "Johnathan Galinato", "url": "http://linkedin.com/in/johnathan-galinato-80015522a" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Foreign Languages" },
+    { "name": "Gym" },
+    { "name": "Music" },
+    { "name": "Sports" },
+    { "name": "Aircraft Maintenance" }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Javascript",
+        "HTML",
+        "CSS"
+      ],
+      "name": "Languages and Frameworks"
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub", "g++", "VS Code", "React", "Meteor", "IntelliJ" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Fall, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-08-23",
+      "endDate": "Present",
+      "courses": ["Intro to Computer  I & II", "Program Structure in C", "Discrete Math I & II", "Introduction to Python", "Algorithms", "Calculus I & II", "Korean I & II", "Linear Algebra & Differential Equations"]
+    }
+  ],
+  "work": [
+    {
+      "company": "Hawaii Air National Guard",
+      "position": "Heavies Integrated Avionics Systems",
+      "website": "",
+      "startDate": "2019-04-12",
+      "endDate": "Present",
+      "summary": "KC-135R 'Stratotanker' Avionics Specialist",
+      "highlights": [
+        "Maintain, update, and oversee multiple aircraft for mission capability.",
+        "Current Rank: Senior Airman (E4).",
+        "Deployed to Guam from June to August 2022 to support 146 sorties, received 184 aircraft, and offloaded 3.7 million pounds for aircraft aerial refueling.",
+        "Security Clearance: Secret."
+      ]
+    },
+    {
+      "company": "LuluLemon",
+      "position": "Seasonal Educator",
+      "startDate": "2022-10-01",
+      "endDate": "Present",
+      "summary": "'Educate' guests about LuluLemon products, fabrics, and direct customers to the products of best interest.",
+      "highlights": [ 
+        "Explained products, fabrics, and activities for intended uses while creating a tailored shopping experience particular to each guest.",
+        "Created a welcoming environment for guests on the floor and cash register while assisting them, resulting in a positive guest return rate.",
+        "Coordinated with the team on flow of guests and products on the floor during Black Friday rush, resulting in a goal break of over $20k."
+      ]
+    },
+    {
+      "company": "GET Marketing",
+      "position": "Pearl Harbor NEX Apple Ambassador",
+      "startDate": "2023-07-01",
+      "endDate": "2023-10-01",
+      "summary": "Assisted guests with any technical questions about products and directed to preferred Apple device to satisfy their everyday needs.",
+      "highlights": [
+        "Studied unique parts of Apple products that distinguishes a product from others.",
+        "Utilized Apple’s SEED app to increase Apple and sales knowledge.",
+        "Maintained a pristine environment to showcase Apple products.",
+        "Educated guests on Apple products, guiding them to the device best fit for the guest’s needs, including Apple Care+."
+      ]
+    },
+    {
+      "company": "Target",
+      "position": "Technology Consultant",
+      "startDate": "2017-07-01",
+      "endDate": "2021-09-01",
+      "summary": "Assist Guests with any electronic questions and direct guests to the correct product.",
+      "highlights": [
+        "Executed sales floor revisions and product security and provided welcoming guest support.",
+        "Surpassed monthly sales goals set by Target Headquarters by 15% for 6 months.",
+        "Initiated cross-department training and assistance; Increased team members’ knowledge of each department operation; Overall improvement of team member coverage availability.",
+        "Utilized technological knowledge to further assist guests with product replacements, technical questions, and product recommendations."
+      ]
+  }
+  ],
+  "awards": [
+    {
+      "title": "Air and Space Achievement Medal",
+      "date": "20223-02-09",
+      "awarder": "Department of the Air Force",
+      "summary": "Outstanding achievement while assigned to the 506th Expeditionary Air Refueling Squadron. Displayed stellar airmanship and exemplified the core values while performing aircraft maintenance for four assigned and seven transient KC-135R aircraft as a member of the Pacific Command's Theater Support Package."
+    }
+  ],
+  "leadership": [
+    { 
+      "title": "Airmen Leadership Training (Remote)",
+      "startDate": "2022-08-01",
+      "endDate": "2023-02-01",
+      "highlights": [
+        "Completed a 6-month leadership training for becoming a well-rounded direct supervisor over Airmen.",
+        "Utilized multiple techniques of confrontation, personal guidance, and operational guidance.",
+        "Created various Air Force Forms to recognize an individual’s excellency and areas of improvement."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
