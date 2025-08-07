@@ -23,5 +23,3 @@ jobs:
         with:                                # Some relative inputs of your action
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: 'gh-pages'
-          pre_build_commands: |
-            gem update --system 3.3.22
