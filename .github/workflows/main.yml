@@ -23,3 +23,6 @@ jobs:
         with:                                # Some relative inputs of your action
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: 'gh-pages'
+          pre_build_commands: |
+            gem update --system 3.3.22
+            bundle lock --add-platform x86-mingw32 x64-mingw32 x86-mswin32 java
